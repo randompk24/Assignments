@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LongestKUniqueCharacterSubstrings17 {
+public class longestKUniqueCharacterSubstrings17 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
